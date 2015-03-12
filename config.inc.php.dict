@@ -1,5 +1,5 @@
 <?php
-$config['xmpp_bosh_url']='http://IP:PORT/http-bind/';
+$config['xmpp_bosh_url']='http://IP:PORT/http-bind';
 $config['xmpp_domain']='DOMAIN';
 $config['xmpp_resource']='web';
 $config['xmpp_overwrite']='true';
